@@ -1,11 +1,3 @@
-@Online{Statista2022,
-  author   = {{Statista}},
-  date     = {2022-10-18},
-  title    = {Cryptocurrencies - Worldwide},
-  url      = {https://www.statista.com/outlook/dmo/fintech/digital-assets/cryptocurrencies/worldwide#users},
-  abstract = {Increase in use of cryptocurrencies by users},
-}
-
 @Online{CoinGecko2022,
   author   = {{CoinGecko}},
   date     = {2022-12-16},
@@ -20,14 +12,6 @@
   title    = {A third of young traders go to social media for investment advice},
   url      = {https://markets.businessinsider.com/news/stocks/retail-investing-trends-robinhood-gamification-survey-social-media-trading-2021-8},
   abstract = {Article discussing the increase in social media use when researching investment decisions},
-}
-
-@Online{SRG2022,
-  author   = {{Statista Research Group}},
-  date     = {2022-12-15},
-  title    = {Cryptocurrency ownership by age group},
-  url      = {https://www.statista.com/statistics/1293478/singapore-cryptocurrency-holders-by-age-group/#:~:text=In a survey conducted on,for 29.5 percent of respondents.},
-  abstract = {Shows the age group of the average crypto users},
 }
 
 @Online{CambridgeWords2021,
@@ -68,6 +52,49 @@
   title    = {13percent of Americans traded crypto in the past year, survey finds},
   url      = {https://www.cnbc.com/2021/07/23/13percent-of-americans-traded-crypto-in-the-past-year-survey-finds.html},
   abstract = {More than 1 in 10 Americans invested in cryptocurrency over the past year, according to a survey published by the University of Chicago, a sign of the popularity of digital currencies like bitcoin and ethereum.},
+}
+
+@Online{Statista2022,
+  author = {{Statista}},
+  date   = {2022-09-05},
+  title  = {Number of identity-verified cryptoasset users from 2016 to December 2021},
+  url    = {https://www.statista.com/statistics/1202503/global-cryptocurrency-user-base/},
+}
+
+@InBook{Lewis2018,
+  author     = {Lewis, Antony},
+  booktitle  = {The Basics of Bitcoins and Blockchains},
+  date       = {2018-09-15},
+  title      = {Investing, Pricing},
+  bookauthor = {Lewis, Antony},
+  isbn       = {978-1-63353-800-9},
+  pages      = {376-384},
+  publisher  = {Mango Publishing Group},
+  subtitle   = {Investing,Pricing},
+  address    = {Coral Gables,FL,USA},
+  keywords   = {Tokens, Digital Tokens, Blockchain},
+}
+
+@Report{Cristescu2022,
+  author      = {Cristescu, Marian Pompiliu and Nerisanu, Raluca Andreea and Mara , Dumitru Alexandru and Oprea, Simona-Vasilica},
+  date        = {2022-11-14},
+  institution = {Faculty of Economic Sciences, Lucian Blaga University of Sibiu, 550324 Sibiu, Romania},
+  title       = {Using Market News Sentiment Analysis for Stock Market Prediction},
+  type        = {resreport},
+  url         = {https://www.mdpi.com/2227-7390/10/22/4255},
+  abstract    = {(1) Background: Since the current crises that has inevitably impacted the financial market, market prediction has become more crucial than ever. The question of how risk managers can more accurately predict the evolution of their portfolio, while taking into consideration systemic risks brought on by a systemic crisis, is raised by the low rate of success of portfolio risk-management models. Sentiment analysis on natural language sentences can increase the accuracy of market prediction because financial markets are influenced by investor sentiments. Many investors also base their decisions on information taken from newspapers or on their instincts. (2) Methods: In this paper, we aim to highlight how sentiment analysis can improve the accuracy of regression models when predicting the evolution of the opening prices of some selected stocks. We aim to accomplish this by comparing the results and accuracy of two cases of market prediction using regression models with and without market news sentiment analysis. (3) Results: It is shown that the nonlinear autoregression model improves its goodness of fit when sentiment analysis is used as an exogenous factor. Furthermore, the results show that the polynomial autoregressions fit better than the linear ones. (4) Conclusions: Using the sentiment score for market modelling, significant improvements in the performance of linear autoregressions are showcased.},
+  keywords    = {sentiment analysis, market prediction; BeautifulSoup; ARX,VADER},
+}
+
+@Report{Magnusson2022,
+  author      = {Magnusson, Charlie and Stenberg, Tom},
+  date        = {2022},
+  institution = {jonkoping university},
+  title       = {Cryptocurrency Investments:The Good, The Bad, and The Ugly?: An empirical Study on the factors affecting private financial investment decisions in cryptocurrency.},
+  type        = {mathesis},
+  url         = {http://www.diva-portal.org/smash/record.jsf?pid=diva2:1665717&dswid=-1988},
+  abstract    = {Cryptocurrencies are becoming increasingly popular in the business and financial world. With arguments for and against, people praising it and people demanding a ban, the highest financial returns and the worst economic falls, it is widely discussed and splits the world. This research has taken the focus of experienced Swedish private investors and analyzed the factors that affect their decisions in terms of cryptocurrency investments. Previous research had found patterns within the demographic and strategies of the investors as well as the risks, diversifying or hedging opportunities, and government regulations associated with cryptocurrencies. These findings were used to form semi- structured interviews where the investors would express their opinions and decisions. This resulted in new contributions to the research in terms of the allocation of private investments in cryptocurrencies and the lack of strategy in the investments. Research was also confirmed in terms of government regulations, what drives these risky investments, and the skeptical future of cryptocurrencies.},
+  keywords    = {Cryptocurrency, Investment, Blockchain, Finance, Challenges},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
